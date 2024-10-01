@@ -1,1 +1,12 @@
-/* Place CSS styles here */
+label{
+    display: block;
+    margin-bottom: 4px;
+}
+
+.logo {
+    width: 100px;
+}
+.form-input {
+    border-radius: 16px;
+    margin-bottom: 16px;
+}
